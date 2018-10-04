@@ -1,5 +1,5 @@
 export interface Track {
-    truckNumber: number;
+    trackNumber: number;
     trackName: string;
     trackLenght: string;
     trackPrice: number;
