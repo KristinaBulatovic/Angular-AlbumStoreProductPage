@@ -2,8 +2,8 @@ import { Track } from './track';
 
 export interface Album {
     name: string;
-    relaseDate: string;
+    releaseDate: string;
     coverImage: string;
-    track: Track[];
+    tracks: Track[];
 }
 
